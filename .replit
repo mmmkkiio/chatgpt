@@ -1,5 +1,5 @@
-run = "go run examples/main.go"
+run = "go run main.go"
 
 [interpreter]
-  entrypoint = "examples/main.go"
+  entrypoint = "main.go"
   language = "go"
