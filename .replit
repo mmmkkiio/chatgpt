@@ -1,5 +1,0 @@
-run = "go run bubaitiansheng/chatgpt/main.go"
-
-[interpreter]
-  entrypoint = "bubaitiansheng/chatgpt/main.go"
-  language = "go"
