@@ -1,0 +1,4 @@
+lmsys:
+  token: '[ 127, 158 ]'
+  model:
+    - 'chatgpt-4o-latest-20241120'
