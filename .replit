@@ -1,0 +1,5 @@
+run = "go run examples/main.go"
+
+[interpreter]
+  entrypoint = "examples/main.go"
+  language = "go"
